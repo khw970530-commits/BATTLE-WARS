@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BATTLE WARS",
+  "description": "친구들과 함께하는 온라인 게임 내기 및 정밀 정산 플랫폼. 공정한 규칙과 깔끔한 포인트 정산을 즐기세요.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
